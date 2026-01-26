@@ -1,4 +1,3 @@
-
 # WebBridge: Seamlessly Bridging the Gap Between Web3 and Traditional Systems
 
 > "Empowering a frictionless ecosystem where blockchain and web technologies converge"
