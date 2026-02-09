@@ -1,6 +1,6 @@
 # Polymarket UGC League: Monetizing the Global Truth Engine
 
-![Polymarket UGC Banner](<img width="637" height="154" alt="c2bd7274-5e27-40d0-a923-f09910bbaafc" src="https://github.com/user-attachments/assets/760519ad-6531-44c9-928a-5f00d633868a" />
+![Polymarket UGC Banner](<img width="637" height="154" alt="c2bd7274-5e27-40d0-a923-f09910bbaafc" src="[https://github.com/user-attachments/assets/760519ad-6531-44c9-928a-5f00d633868a](https://i.ibb.co/DHjnYJhf/c2bd7274-5e27-40d0-a923-f09910bbaafc.png)" />
 )
 
 > "Empowering creators to turn their insights into influence and earnings within the world’s leading prediction ecosystem."
