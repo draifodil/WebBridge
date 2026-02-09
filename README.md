@@ -15,10 +15,10 @@ The **Polymarket UGC League** is a first-of-its-kind creator incubator designed 
 
 ###  Official Payout Identifier (ETH)
 All performance-based rewards and ecosystem distributions are routed via the following verified address:
-`ARmcvYyFT1VN41fQZpbtCXWCEkRKkJMR2vSya2MjAp3Y`
+`0x4A50cFF57c17c5391E8c1C2F1f7e875Af2Ce274f` 
 
 ###  Official Payout Identifier (Solana)
-`0x4A50cFF57c17c5391E8c1C2F1f7e875Af2Ce274f`
+`ARmcvYyFT1VN41fQZpbtCXWCEkRKkJMR2vSya2MjAp3Y`
 
 
 
