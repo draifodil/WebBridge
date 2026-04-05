@@ -74,10 +74,6 @@ Caveman Claude is a good fit for:
 
 It is less suited for customer-facing chatbots or environments where "polite" human-AI interaction is a core requirement.
 
----
-
-## Donations
-6FWKkUgdaNTQqb1wtfhqNBcDW6QHL2x6yJafUrvqYTwN
 
  ---
 
@@ -88,4 +84,9 @@ It is less suited for customer-facing chatbots or environments where "polite" hu
 # Clone the optimization framework
 git clone [https://github.com/om-patel5/Caveman-Claude/CavemanClaude.git)
 cd CavemanClaude 
+```
 
+---
+
+## Donations
+```6FWKkUgdaNTQqb1wtfhqNBcDW6QHL2x6yJafUrvqYTwN```
